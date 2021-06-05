@@ -1,4 +1,6 @@
-# prax
+# Paint APP
+
+a simple flutter login and drawing app for kids to sketch ..
 
 A new Flutter project.
 
